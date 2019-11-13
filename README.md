@@ -74,10 +74,11 @@ CREATE TABLE comment(
 ) engine=InnoDB default charset=utf8;
 ```
 
-
+```sql
 INSERT INTO adminInfo VALUES('TEST@gmail.com', 'PASSWORD');
-INSERT INTO category VALUES(null, '카테고리명');
-
+INSERT INTO category VALUES(null, '기본 메뉴');
+INSERT INTO category VALUES(null, '기타');
+```
 
 #### 3. 실행 영상 및 작업 삽질..
 <https://blog.naver.com/sicarina/221706421207>
