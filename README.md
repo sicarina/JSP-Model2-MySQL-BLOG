@@ -2,7 +2,7 @@
 
 - git주소 : <https://github.com/sicarina/JSP-Model2-MySQL-BLOG>
 
-![blog]()
+![blog](https://postfiles.pstatic.net/MjAxOTExMTNfMTY5/MDAxNTczNjIzMzcxMzIy.N7KkDI-zilMA2np-8g5Ksu2TP5X-bLr7CJu9WMgwcOEg.LB6lvj4_Vebmd6R5elwCciuBZCy3tYoSTEE8WOwP3jsg.PNG.sicarina/image.png?type=w773)
 
 #### 1. 사용자 생성 및 권한 주기 및 DB 생성
 - create user 'boardAdm'@'localhost' identified by 'boardPw1!';
