@@ -68,7 +68,7 @@
 									&nbsp; &nbsp; &nbsp;
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="/blogNew/guide.jsp">Information</a>
+									<a class="nav-link" href="/blogNew/guide.jsp">Guide</a>
 								</li>
 								<li class="nav-item">
 									&nbsp; &nbsp; &nbsp;
